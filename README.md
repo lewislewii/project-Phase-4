@@ -1,7 +1,8 @@
 Movies Recommendation System
 Author: group 3
 
-image
+![Uploading image.png…]()
+
 Overview
 RMX consultancy created a user based and item based collaborative filtering methods on movie lens dataset to create a movie recommendation system for Showmax to:
 
