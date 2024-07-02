@@ -1,10 +1,7 @@
-<img width="1387" alt="345150956-5b78dcc5-c8f7-4e63-82b1-22af0f76a7e1" src="https://github.com/lewislewii/project-Phase-4/assets/151353099/44d32f8f-6a2c-455b-b000-6333ca680802">Movies Recommendation System
+Recommendation System
 Author: group 3
 
-![Uploading image.png…]()
-![Uploading 345150956-5b78dcc5-c8f7-4e63-82b1-22af0f76a7e1.png…]()
-
-
+<img width="1387" alt="345150956-5b78dcc5-c8f7-4e63-82b1-22af0f76a7e1" src="https://github.com/lewislewii/project-Phase-4/assets/151353099/44d32f8f-6a2c-455b-b000-6333ca680802">Movies 
 
 Overview
 RMX consultancy created a user based and item based collaborative filtering methods on movie lens dataset to create a movie recommendation system for Showmax to:
