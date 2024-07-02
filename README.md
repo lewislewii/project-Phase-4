@@ -7,10 +7,10 @@ Overview
 RMX consultancy created a user based and item based collaborative filtering methods on movie lens dataset to create a movie recommendation system for Showmax to:
 
 Accurately recommend top 5 movies
-Provide insights and recommendations to Showmax
-Create a accurate movie recommendation system using user ratings and viewing history
-Business Problem
-Showmax is a subscription-based video-on-demand service that aims to provide users with a wide variety of TV shows, movies, and original content for streaming over the internet. Its business revolves around offering entertainment content to subscribers, focusing on convenience, choice, and quality of viewing experience to attract and retain customers in a competitive digital streaming market.
+    Provide insights and recommendations to Showmax
+    Create a accurate movie recommendation system using user ratings and viewing history
+    Business Problem
+    Showmax is a subscription-based video-on-demand service that aims to provide users with a wide variety of TV shows, movies, and original content for streaming over the internet. Its business revolves around offering entertainment content to subscribers, focusing on convenience, choice, and quality of viewing experience to attract and retain customers in a competitive digital streaming market.
 
 Showmax aims to enhance user engagement and satisfaction by improving its movie recommendation system. The goal is to provide personalized recommendations to users based on their viewing history and preferences, ultimately increasing user retention and content consumption on the platform.
 
@@ -80,11 +80,15 @@ Data Enrichment: Consider using the links.csv dataset to connect to external dat
 Deal with popularity bias: Increase the representation of less popular movies or undersample the most popular movies
 Incorporate more movie features: Recommending movies based other features such as genres, tags might improve the accuracy
 Monitor and Retrain: Regularly tune and evaluate the recommendation models with new data to ensure they adapt to changing user preferences and movie trends. This will help maintain the accuracy and relevance of recommendations.
+
 Links to project resources
+
 Presentation - https://github.com/ruth-karimi/Movies-Recommendation-System/blob/main/Movie%20Recommendation%20System.pdf
 Code -
 Data -
 README - https://github.com/ruth-karimi/Movies-Recommendation-System/edit/main/README.md
+
 Repository Structure
+
 <img width="332" alt="321013909-f59c8eb3-42e1-472c-a6d0-25912326997e" src="https://github.com/lewislewii/project-Phase-4/assets/151353099/a6a9a471-7867-4b1d-94ae-e705a9cba730">
 
