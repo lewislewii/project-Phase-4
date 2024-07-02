@@ -1,8 +1,8 @@
-Recommendation System
-Author: group 3
 
-<img width="1387" alt="345150956-5b78dcc5-c8f7-4e63-82b1-22af0f76a7e1" src="https://github.com/lewislewii/project-Phase-4/assets/151353099/44d32f8f-6a2c-455b-b000-6333ca680802">Movies 
+Movies Recommendation System
+Author: Ruth Nyakio
 
+![image](https://github.com/lewislewii/project-Phase-4/assets/151353099/52f07948-d60d-48da-9885-c5dc8ac154d6)
 Overview
 RMX consultancy created a user based and item based collaborative filtering methods on movie lens dataset to create a movie recommendation system for Showmax to:
 
@@ -42,23 +42,29 @@ Format: movieId,imdbId,tmdbId.
 movieId corresponds to MovieLens, imdbId to IMDb, and tmdbId to The Movie Databases
 Results
 Movie Genres Count: Drama was the most common genre with a count of 40,000+ while Film noir being the least common with a count of less than 1,000
+<img width="801" alt="345145192-f9115dd3-e216-4bef-b13c-ecdb808a31b0" src="https://github.com/lewislewii/project-Phase-4/assets/151353099/65d461c5-77bd-4819-804d-9ddc7dfaf18b">
 
-image
+
 Ratings Distribution: Majority of the movies had a rating of between 3.5 and 4.0
 
-image
+<img width="808" alt="345144070-56e7a31b-3942-4613-a65d-e5735b9e70ea" src="https://github.com/lewislewii/project-Phase-4/assets/151353099/9ab3c4a9-4b53-4d74-acd2-bcca9f3cfb43">
+
 Tags Frequency: For tags used, Netflix, queue, funny, quirky, atmospheric, surreal and superhero are the most common tags used by the users
 
-image
-Average Rating per User: Most users gave the movies ratings of between 3.5 and 4.0
+<img width="808" alt="345144247-c9290cad-f71d-4b0a-b310-57c7519fdac9" src="https://github.com/lewislewii/project-Phase-4/assets/151353099/ee622f32-c1e8-47ce-89a1-3566041964c4">
 
-image
+Average Rating per User: Most users gave the movies ratings of between 3.5 and 4.0
+<img width="801" alt="345144395-f2e38c6f-6990-4bf9-911f-83fbeb6910a5" src="https://github.com/lewislewii/project-Phase-4/assets/151353099/d8e94d0e-3aa9-4c4c-b831-997a0995af4c">
+
+
 Average Rating per Movie Year of release: Movies produced after 1980 seems to have generally lower ratings compared to movies produced before 1980
 
-image
+<img width="808" alt="345144545-18095cbe-064c-46ae-8ee9-7d97a0a335db" src="https://github.com/lewislewii/project-Phase-4/assets/151353099/81fb3cc4-cca3-49ed-b573-47845b972d40">
+
 Average Rating Across Genres Over the Years: Drama, comedy and musical received higher average ratings in early to mid-20th century. Animation and Fantasy have become popular in recent years. Genres like Documentary, Film-Noir have maintained consistently high ratings over time.
 
-image
+<img width="793" alt="345144919-97fbb2e9-b1fc-4ab2-8788-8d59260f5761" src="https://github.com/lewislewii/project-Phase-4/assets/151353099/8d91e5d2-079e-4c48-bea9-6d73013fcaf3">
+
 Conclusions
 The KNNBaseline model successfully recommended top 5 movies for users, considering both predicted ratings and similar movie suggestions.
 The item-based collaborative filtering model, while useful, demonstrated lower accuracy compared to the KNNBaseline model done on the user based collaborative filtering.
@@ -80,4 +86,5 @@ Code -
 Data -
 README - https://github.com/ruth-karimi/Movies-Recommendation-System/edit/main/README.md
 Repository Structure
-image
+<img width="332" alt="321013909-f59c8eb3-42e1-472c-a6d0-25912326997e" src="https://github.com/lewislewii/project-Phase-4/assets/151353099/a6a9a471-7867-4b1d-94ae-e705a9cba730">
+
